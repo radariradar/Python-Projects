@@ -135,6 +135,6 @@ while enemy.hp>0 :
     warrior.attack(enemy)
 
 #For further attacks and new choices of weapon, the program repeats itself in the while-loop.
-
+print(f'Congratulations {name}! You are now moving to the next level!)
 
     
